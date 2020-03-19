@@ -2,6 +2,9 @@
 This is Sarig AWS password AABBCC123443234
 Check Point CloudGuard IaaS repository.
 
+password='qqww1122'
+
+
 The repository contains:
 
 * Solution/CloudFormation templates
